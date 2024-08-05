@@ -1,11 +1,38 @@
-* {
-    color: white;
-    background-color: black;
-}
-div {
-    background-color: red;
-    color: white;
-    font-size: 32px;
+.main {
+    color: #5F6F65;
+    background-color: white;
+    margin: auto;
     text-align: center;
-    font-weight: bold;
+   
+}
+.header {
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    border: 5px solid black;
+    border-radius: 20px;
+    
+}
+.lasagna {
+    box-sizing: border-box;
+    height: 100px;
+    background-color: #9CA986;
+    padding: 20px;
+    margin: 20px;
+}
+.sisig {
+    box-sizing: border-box;
+    height: 100px;
+    background-color: #808D7C;
+    padding: 20px;
+    margin: 20px;
+
+}
+.adobo {
+    box-sizing: border-box;
+    height: 100px;
+    background-color: #C9DABF;
+    padding: 20px;
+    margin: 20px;
+
 }
